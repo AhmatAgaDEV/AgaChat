@@ -8,4 +8,4 @@ Github Username: Ahmat_Aga
 
 Version: 1.0 Beta
 
-# Warn: Run This Project on Turbowarp __WEBSITE__!
+# Warning: Run This Project on Turbowarp __WEBSITE__!
