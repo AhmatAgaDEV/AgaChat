@@ -2,6 +2,10 @@
 
 Please don't touch anything!
 
-This Project by Ahmat_Aga.
+Scratch Username: Ahmat_Aga
+
+Github Username: Ahmat_Aga
 
 Version: 1.0 Beta
+
+# Warn: Run This Project on Turbowarp!
